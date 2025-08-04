@@ -1,2 +1,3 @@
-# Cropcompass
-Crop Compass is a web app that predicts the best crop to grow based on inputs like nitrogen, phosphorus, temperature, humidity, pH, and rainfall using a machine learning model. Built with the MERN stack and Python
+
+# CraveCart
+CraveCart is a full-stack MERN-based food ordering application featuring a customer-facing frontend, an admin dashboard, and a secure backend API. Users can browse menus, place orders while admins manage products, orders, and users from a separate panel.
